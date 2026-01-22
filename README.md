@@ -1,6 +1,11 @@
 # Frontend (Vue 3 + Vite) for Medic Care App
 
 I migrated a static Bootstrap 5 HTML template into a modern Vue 3 application, adding routing and dynamic API integration.
+Credit for the template: https://templatemo.com/tm-566-medic-care
+Watch live at : https://vue-medic-care.onrender.com/ 
+Book an appointment, then click Admin to see results.
+<img width="1243" height="878" alt="image" src="https://github.com/user-attachments/assets/8d6444b6-0232-4f9f-9e98-561aeac041f6" />
+
 Tech Stack
 
     Framework: Vue 3 (Composition API with <script setup>)
